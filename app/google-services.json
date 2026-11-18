@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327434960048",
+    "project_id": "notificationinbox-99386",
+    "storage_bucket": "notificationinbox-99386.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327434960048:android:e3c39de215ea2dc8a0cf75",
+        "android_client_info": {
+          "package_name": "com.example.notificationinbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtmzqXmSbyGSzFnW48AaIUpiqXCQICbIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

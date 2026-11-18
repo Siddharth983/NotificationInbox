@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NotificationInbox</string>
+    <string name="title_notification_inbox">Notification Inbox</string>
+    <string name="title_notification_details">Notification Details</string>
+
+    <!-- Empty State -->
+    <string name="empty_inbox_title">No Notifications Yet</string>
+    <string name="empty_inbox_description">Your inbox is clean! You\'ll see new push notifications and alerts right here.</string>
+
+    <!-- Unread count -->
+    <string name="unread_count_format">%1$d Unread</string>
+    <string name="no_unread">All Caught Up</string>
+
+    <!-- Status -->
+    <string name="status_unread">Unread</string>
+    <string name="status_read">Read</string>
+    <string name="mark_as_read">Mark as read</string>
+    <string name="mark_as_unread">Mark as unread</string>
+    <string name="mark_all_read">Mark all as read</string>
+    <string name="clear_all">Clear all</string>
+    <string name="delete">Delete</string>
+    <string name="add_test_notification">Add Test Notification</string>
+
+    <!-- Permissions -->
+    <string name="notification_permission_title">Enable Notifications</string>
+    <string name="notification_permission_rationale">Please allow notification permission to receive important updates directly in your inbox.</string>
+    <string name="permission_granted">Notification permission granted</string>
+    <string name="permission_denied">Notification permission denied. You can enable it in Settings.</string>
+
+    <!-- Notification Channel -->
+    <string name="notification_channel_name">Inbox Notifications</string>
+    <string name="notification_channel_description">Notifications received for the assignment inbox</string>
+
+    <!-- Details Screen -->
+    <string name="received_at">Received</string>
+    <string name="notification_deleted">Notification deleted</string>
+    <string name="notification_not_found">Notification not found</string>
+</resources>
